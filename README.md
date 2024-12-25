@@ -1,0 +1,1 @@
+Because some people look at GitHub contribution graphs in a CV sift. I haven't been using GitHub much recently, so my graph is bare. So this repo is for you. A github graph may not be the best measure of me, lets have a coffee/call/chat and you can find out.
